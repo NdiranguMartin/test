@@ -1,1 +1,3 @@
-Brian Works at Apollo as a data analsyst
+Brian Works at Apollo as a data analsyst!
+
+Welcome him!
